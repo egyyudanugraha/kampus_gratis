@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Berita;
 use Illuminate\Http\Request;
 
 class UserDashboardController extends Controller
@@ -23,5 +24,13 @@ class UserDashboardController extends Controller
     public function dokumenPenting()
     {
         return view('admin.dashboard-user.dokumenPenting');
+    }
+
+    public function testingDB(){
+
+        $berita = Berita::all();
+        return response()->json([
+            'msg' => $berita
+        ]);
     }
 }
