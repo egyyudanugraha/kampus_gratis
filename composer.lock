@@ -1733,6 +1733,7 @@
         },
         {
             "name": "laravel/framework",
+<<<<<<< HEAD
             "version": "v8.83.5",
             "source": {
                 "type": "git",
@@ -1743,6 +1744,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/framework/zipball/33b1b981266e3a19fbc826b60c4a6847e311ac95",
                 "reference": "33b1b981266e3a19fbc826b60c4a6847e311ac95",
+=======
+            "version": "v8.83.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/framework.git",
+                "reference": "97a549f1a83cfb32dab1eecab4c4d40a984a72b5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/97a549f1a83cfb32dab1eecab4c4d40a984a72b5",
+                "reference": "97a549f1a83cfb32dab1eecab4c4d40a984a72b5",
+>>>>>>> 2871015 (Coba fork)
                 "shasum": ""
             },
             "require": {
@@ -1902,7 +1915,11 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
+<<<<<<< HEAD
             "time": "2022-03-15T13:37:44+00:00"
+=======
+            "time": "2022-03-08T16:12:54+00:00"
+>>>>>>> 2871015 (Coba fork)
         },
         {
             "name": "laravel/sanctum",
@@ -4150,6 +4167,7 @@
         },
         {
             "name": "symfony/cache",
+<<<<<<< HEAD
             "version": "v5.4.6",
             "source": {
                 "type": "git",
@@ -4160,6 +4178,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/cache/zipball/c0718d0e01ac14251a45cc9c8b93716ec41ae64b",
                 "reference": "c0718d0e01ac14251a45cc9c8b93716ec41ae64b",
+=======
+            "version": "v6.0.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/cache.git",
+                "reference": "57faad4e0d694f9961f517fdd5e6fbb1f6d0e04f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/cache/zipball/57faad4e0d694f9961f517fdd5e6fbb1f6d0e04f",
+                "reference": "57faad4e0d694f9961f517fdd5e6fbb1f6d0e04f",
+>>>>>>> 2871015 (Coba fork)
                 "shasum": ""
             },
             "require": {
@@ -4227,7 +4257,11 @@
                 "psr6"
             ],
             "support": {
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/cache/tree/v5.4.6"
+=======
+                "source": "https://github.com/symfony/cache/tree/v6.0.6"
+>>>>>>> 2871015 (Coba fork)
             },
             "funding": [
                 {
@@ -4243,7 +4277,11 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2022-03-02T12:56:28+00:00"
+=======
+            "time": "2022-03-02T12:58:14+00:00"
+>>>>>>> 2871015 (Coba fork)
         },
         {
             "name": "symfony/cache-contracts",
@@ -6262,6 +6300,7 @@
         },
         {
             "name": "symfony/translation",
+<<<<<<< HEAD
             "version": "v5.4.6",
             "source": {
                 "type": "git",
@@ -6272,6 +6311,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/translation/zipball/a7ca9fdfffb0174209440c2ffa1dee228e15d95b",
                 "reference": "a7ca9fdfffb0174209440c2ffa1dee228e15d95b",
+=======
+            "version": "v6.0.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/translation.git",
+                "reference": "f6639cb9b5e0c57fe31e3263b900a77eedb0c908"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/translation/zipball/f6639cb9b5e0c57fe31e3263b900a77eedb0c908",
+                "reference": "f6639cb9b5e0c57fe31e3263b900a77eedb0c908",
+>>>>>>> 2871015 (Coba fork)
                 "shasum": ""
             },
             "require": {
@@ -6339,7 +6390,11 @@
             "description": "Provides tools to internationalize your application",
             "homepage": "https://symfony.com",
             "support": {
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/translation/tree/v5.4.6"
+=======
+                "source": "https://github.com/symfony/translation/tree/v6.0.6"
+>>>>>>> 2871015 (Coba fork)
             },
             "funding": [
                 {
@@ -6355,7 +6410,11 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2022-03-02T12:56:28+00:00"
+=======
+            "time": "2022-03-02T12:58:14+00:00"
+>>>>>>> 2871015 (Coba fork)
         },
         {
             "name": "symfony/translation-contracts",
@@ -6526,6 +6585,7 @@
         },
         {
             "name": "symfony/var-exporter",
+<<<<<<< HEAD
             "version": "v5.4.6",
             "source": {
                 "type": "git",
@@ -6536,6 +6596,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/var-exporter/zipball/49e2355fe6f59ea30c18ebb68edf13b7e20582e5",
                 "reference": "49e2355fe6f59ea30c18ebb68edf13b7e20582e5",
+=======
+            "version": "v6.0.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/var-exporter.git",
+                "reference": "130229a482abf17635a685590958894dfb4b4360"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/var-exporter/zipball/130229a482abf17635a685590958894dfb4b4360",
+                "reference": "130229a482abf17635a685590958894dfb4b4360",
+>>>>>>> 2871015 (Coba fork)
                 "shasum": ""
             },
             "require": {
@@ -6579,7 +6651,11 @@
                 "serialize"
             ],
             "support": {
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/var-exporter/tree/v5.4.6"
+=======
+                "source": "https://github.com/symfony/var-exporter/tree/v6.0.6"
+>>>>>>> 2871015 (Coba fork)
             },
             "funding": [
                 {
@@ -6595,7 +6671,11 @@
                     "type": "tidelift"
                 }
             ],
+<<<<<<< HEAD
             "time": "2022-03-02T12:42:23+00:00"
+=======
+            "time": "2022-03-02T12:58:14+00:00"
+>>>>>>> 2871015 (Coba fork)
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
@@ -7378,6 +7458,7 @@
         },
         {
             "name": "laravel/sail",
+<<<<<<< HEAD
             "version": "v1.13.7",
             "source": {
                 "type": "git",
@@ -7388,6 +7469,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/laravel/sail/zipball/2092e1ce6e4ba534bff443de8c3a7bb280aba121",
                 "reference": "2092e1ce6e4ba534bff443de8c3a7bb280aba121",
+=======
+            "version": "v1.13.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/sail.git",
+                "reference": "6205041336b09b965af1d6af29261584e787bf52"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/laravel/sail/zipball/6205041336b09b965af1d6af29261584e787bf52",
+                "reference": "6205041336b09b965af1d6af29261584e787bf52",
+>>>>>>> 2871015 (Coba fork)
                 "shasum": ""
             },
             "require": {
@@ -7434,7 +7527,11 @@
                 "issues": "https://github.com/laravel/sail/issues",
                 "source": "https://github.com/laravel/sail"
             },
+<<<<<<< HEAD
             "time": "2022-03-11T14:11:15+00:00"
+=======
+            "time": "2022-03-07T15:35:47+00:00"
+>>>>>>> 2871015 (Coba fork)
         },
         {
             "name": "mockery/mockery",
@@ -8312,6 +8409,7 @@
         },
         {
             "name": "phpunit/phpunit",
+<<<<<<< HEAD
             "version": "9.5.19",
             "source": {
                 "type": "git",
@@ -8322,6 +8420,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/35ea4b7f3acabb26f4bb640f8c30866c401da807",
                 "reference": "35ea4b7f3acabb26f4bb640f8c30866c401da807",
+=======
+            "version": "9.5.18",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sebastianbergmann/phpunit.git",
+                "reference": "1b5856028273bfd855e60a887278857d872ec67a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/1b5856028273bfd855e60a887278857d872ec67a",
+                "reference": "1b5856028273bfd855e60a887278857d872ec67a",
+>>>>>>> 2871015 (Coba fork)
                 "shasum": ""
             },
             "require": {
@@ -8399,7 +8509,11 @@
             ],
             "support": {
                 "issues": "https://github.com/sebastianbergmann/phpunit/issues",
+<<<<<<< HEAD
                 "source": "https://github.com/sebastianbergmann/phpunit/tree/9.5.19"
+=======
+                "source": "https://github.com/sebastianbergmann/phpunit/tree/9.5.18"
+>>>>>>> 2871015 (Coba fork)
             },
             "funding": [
                 {
@@ -8411,7 +8525,11 @@
                     "type": "github"
                 }
             ],
+<<<<<<< HEAD
             "time": "2022-03-15T09:57:31+00:00"
+=======
+            "time": "2022-03-08T06:52:28+00:00"
+>>>>>>> 2871015 (Coba fork)
         },
         {
             "name": "sebastian/cli-parser",
